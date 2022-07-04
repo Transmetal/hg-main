@@ -5,27 +5,15 @@
 <br>
 <br> 
 
-## Badges
-
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-
-<br><br> 
-
-![Screenshort](img/usage.png)
-
-<br><br><br><br> 
-
-
 ## Download & Install : 
 
 ```
-git clone https://github.com/thenurhabib/hg
+git clone https://github.com/Transmetal/hg-main
 cd hg
 pip install -r requirements.txt
 python3 main.py
 ```
 <br>
-<br> 
 
 ## Usage :
 ```
@@ -37,21 +25,4 @@ Options :
  -u 	:	 URL of the Website. 
  -i 	:	 Input file of the URLS.
  ```
-
 <br>
-<br> 
-
-## Screenshort :
-![Screenshort](img/Screenshot_2022-03-10_01-21-24.png)
-
-
-
-## Authors
-
-- [@Md. Nur Habib](https://www.github.com/octokatherine)
-
-
-## Support
-
-For support, email thenurhabib@gmail.com
-
